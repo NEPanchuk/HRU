@@ -1,0 +1,7 @@
+co,do|w,r,e||||||w,r,e|o,w,r|o,w,r|||||||||||r|||
+co,do||w,r,e|||||w,r,e|||o,w,r|o,w,r|o,w,r|||||w,r|w,r|w,r|r|o,w,r,e|o,w,r,e|
+co,do|||w,r,e||||w,r,e||||||o,w,r|o,w,r|o,w,r||r|r|r|r|||
+co,do|||w,r,e||||w,r,e||||||||o,w,r|o,w,r||||r|||
+co,do||||w,r,e|w,r,e||w,r,e|r|r|r|r|r|||r|||||r|r,w||r
+co,do||||||w,r,e|w,r,e||||||||||o,w,r|o,w,r|o,w,r|r|||
+cs,co,dc,do|o,w,r,e|o,w,r,e|o,w,r,e|o,w,r,e|o,w,r,e|o,w,r,e|o,w,r,e|w,r|w,r|w,r|w,r|w,r|w,r|w,r|w,r|w,r|w,r|w,r|w,r|o,w,r||r|o,w,r,e

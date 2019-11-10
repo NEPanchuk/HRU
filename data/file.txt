@@ -1,0 +1,24 @@
+﻿Право на операцию
+PhpStorm.exe
+PyCharm.exe
+WebStorm.exe
+Jira.exe
+Redmine.exe
+Adobe Photoshop.exe
+GitHub.exe
+Bootstrap.php
+HomepagePresenter.php
+Runtests.py
+Setup.py
+Viewsets.py
+Animate.css
+StyleHomePage.css
+HomePage.html
+Home.js
+MainPage.psd
+Slide.jpeg
+Backgroud.jpeg
+Requirements.txt
+Forms.py
+ForAdmin.py
+ForAdmin-copy.py

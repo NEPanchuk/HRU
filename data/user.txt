@@ -1,0 +1,7 @@
+﻿PHP разработчик|1|Flase
+Python разработчик|2|False
+Верстальщик|3|False
+JavaScript разработчик|4|False
+Тестировщик|5|False
+Дизайнер|6|False
+Менеджер проектов (администратор)|admin|True
